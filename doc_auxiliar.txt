@@ -1,0 +1,4 @@
+npm create vite@5.5.2 .
+escolha react depois javaScript
+npm install
+npm run dev
