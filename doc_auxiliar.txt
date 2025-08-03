@@ -2,3 +2,4 @@ npm create vite@5.5.2 .
 escolha react depois javaScript
 npm install
 npm run dev
+site aplicação: https://curso-react-git-main-marcelos-projects-f5d65ff6.vercel.app
